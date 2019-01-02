@@ -1,0 +1,18 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="1">
+  <symbols/>
+  <colorramps>
+    <colorramp type="gradient" name="elevation1">
+      <prop k="color1" v="74,156,15,255"/>
+      <prop k="color2" v="255,255,255,255"/>
+      <prop k="discrete" v="0"/>
+      <prop k="stops" v="0.25;255,250,104,255:0.5;255,179,38,255:0.75;146,100,30,255"/>
+    </colorramp>
+    <colorramp type="gradient" name="elevation2">
+      <prop k="color1" v="138,205,121,255"/>
+      <prop k="color2" v="255,255,255,255"/>
+      <prop k="discrete" v="0"/>
+      <prop k="stops" v="0.25;255,250,191,255:0.5;255,220,143,255:0.75;160,132,93,255"/>
+    </colorramp>
+  </colorramps>
+</qgis_style>

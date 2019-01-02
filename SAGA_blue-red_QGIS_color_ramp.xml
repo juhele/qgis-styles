@@ -1,0 +1,13 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="1">
+  <symbols/>
+  <colorramps>
+    <colorramp name="SAGA_blue_red" tags="QGIS_color_styles_for_import2" type="gradient">
+      <prop v="0,0,127,255" k="color1"/>
+      <prop v="170,0,0,255" k="color2"/>
+      <prop v="0" k="discrete"/>
+      <prop v="gradient" k="rampType"/>
+      <prop v="0.25;0,170,255,255:0.5;85,255,127,255:0.75;255,170,0,255" k="stops"/>
+    </colorramp>
+  </colorramps>
+</qgis_style>
